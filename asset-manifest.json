@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GiveAid/static/css/main.7e8a8465.css",
+    "main.js": "/GiveAid/static/js/main.d748218b.js",
+    "static/media/bgHome.jpg": "/GiveAid/static/media/bgHome.a7a97ef1bb1ad7dc7517.jpg",
+    "static/media/GAmedium-shot-happy-african-people.jpg": "/GiveAid/static/media/GAmedium-shot-happy-african-people.bef0bb2e736515d5141e.jpg",
+    "static/media/GAtileDonate.jpg": "/GiveAid/static/media/GAtileDonate.94f8f6bcccfeb09da7b9.jpg",
+    "static/media/GAportrait-young-african-boy.jpg": "/GiveAid/static/media/GAportrait-young-african-boy.73657e58856672639082.jpg",
+    "static/media/GAtileDonateSupport.jpg": "/GiveAid/static/media/GAtileDonateSupport.e14c62ea60106ebb92bc.jpg",
+    "static/media/GAVolunteer.jpg": "/GiveAid/static/media/GAVolunteer.fd8fb01166fe5889a112.jpg",
+    "index.html": "/GiveAid/index.html",
+    "main.7e8a8465.css.map": "/GiveAid/static/css/main.7e8a8465.css.map",
+    "main.d748218b.js.map": "/GiveAid/static/js/main.d748218b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8a8465.css",
+    "static/js/main.d748218b.js"
+  ]
+}
