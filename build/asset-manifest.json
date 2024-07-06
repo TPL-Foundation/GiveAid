@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd0ea374.css",
+    "main.js": "/static/js/main.07a821da.js",
+    "static/media/bgHome.jpg": "/static/media/bgHome.a7a97ef1bb1ad7dc7517.jpg",
+    "static/media/GAmedium-shot-happy-african-people.jpg": "/static/media/GAmedium-shot-happy-african-people.bef0bb2e736515d5141e.jpg",
+    "static/media/GAtileDonate.jpg": "/static/media/GAtileDonate.94f8f6bcccfeb09da7b9.jpg",
+    "static/media/GAportrait-young-african-boy.jpg": "/static/media/GAportrait-young-african-boy.73657e58856672639082.jpg",
+    "static/media/GAtileDonateSupport.jpg": "/static/media/GAtileDonateSupport.e14c62ea60106ebb92bc.jpg",
+    "static/media/GAVolunteer.jpg": "/static/media/GAVolunteer.fd8fb01166fe5889a112.jpg",
+    "index.html": "/index.html",
+    "main.fd0ea374.css.map": "/static/css/main.fd0ea374.css.map",
+    "main.07a821da.js.map": "/static/js/main.07a821da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0ea374.css",
+    "static/js/main.07a821da.js"
+  ]
+}
